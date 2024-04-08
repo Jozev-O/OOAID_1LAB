@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HhQYe1Jg/HsKQjevaom78iISXuU0gyOXKMzuDvVGYnz49fJuO/cOcGPiqfru3HIr1eCOb5HvYc5vgDUCiDLZNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BOSS\\Desktop\\OOAID_2LAB\\OOAID_2LAB\\OOAID_2LAB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BOSS\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
